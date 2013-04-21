@@ -3,3 +3,25 @@ CMakeFiles
 Makefile
 cmake_install.cmake
 install_manifest.txt
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
